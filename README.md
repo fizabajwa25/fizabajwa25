@@ -6,7 +6,7 @@ I am a passionate junior studying **Computer Science** at the **University of Il
 ## 💻 Skills
 - **Languages**: Python, C++, Java
 - **Web Technologies**: HTML, CSS, JavaScript
-- **Frameworks**: React, Flask
+- **Frameworks**: React
 - **Design Tools**: Figma
 - **Version Control**: Git, GitHub
 - **IDEs**: VSCode, PyCharm, IntelliJ IDEA
