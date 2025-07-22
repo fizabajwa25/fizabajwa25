@@ -1,35 +1,59 @@
 # 👋 Hi there! I'm Fiza Bajwa
 
-## 🌱 About Me
-I am a passionate junior studying **Computer Science** at the **University of Illinois Chicago**. As a first-generation woman in tech, I strive to expand my skills and contribute to impactful projects in the field of software engineering and UI/UX design.
+💙 About Me
+I’m a rising senior majoring in Computer Science at the University of Illinois Chicago, with a deep interest in software engineering, machine learning, and UI/UX design. As a first-generation woman in tech, I’m committed to breaking barriers and building solutions that are both impactful and inclusive.
 
-## 💻 Skills
-- **Languages**: Python, C++, Java
-- **Web Technologies**: HTML, CSS, JavaScript
-- **Frameworks**: React
-- **Design Tools**: Figma
-- **Version Control**: Git, GitHub
-- **IDEs**: VSCode, PyCharm, IntelliJ IDEA
+I recently earned a certificate in Machine Learning Foundations from Cornell University, and I’m currently applying that knowledge through real-world AI projects as part of the Break Through Tech AI Fellowship.
 
-## 🚀 Projects
-### 1. **App Recommender System**
-- Developed a recommendation engine for day traders using Python and Peak6 API.
-- Enhanced user experience by providing tailored app suggestions based on trading behaviors.
+💚 Experience
+Implementation Intern @ Ascent Integrated Tech (Summer 2025)
+Partnered with cross-functional teams to streamline internal tool deployments — enhancing operational workflows and field team performance.
 
-### 2. **Academic Scheduler Tool**
-- Currently working with **Women in Computer Science** to build a web-based scheduler for computer science students.
-- Designed user-friendly interfaces in Figma and implemented features for searching, filtering, and organizing courses.
+Software Engineer Intern @ Peak6 (Summer 2023)
+Built a Python-based App Recommender System, reducing app selection time by 30% for 100+ traders, and integrated it into live systems using PyCharm and Git.
 
-### 3. **Homework Projects**
-- Working on various assignments in **CS 361**, focusing on memory management and backend services.
-- Gained experience in building efficient algorithms and data structures.
+Brand Ambassador @ LaCroix
+Coordinated and executed campus marketing events, managed logistics, and boosted engagement by creating targeted social media content.
 
-## 📫 Get in Touch
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/fiza-bajwa-302319260/). I’m always open to networking, collaboration, and opportunities in software engineering and design!
+🧡 Projects
+🧠 AI Studio Project – Break Through Tech @ Cornell Tech
+Designed a full-stack ML solution with a 5-person team for an industry partner.
 
-## 📖 Interests
-- UI/UX Design
-- Software Engineer
-- Data Science
+Followed agile sprints, delivered a working GitHub repository with complete documentation.
 
-Thank you for visiting my profile! I'm excited to share my journey in tech and contribute to meaningful projects.
+💻 WiCS Academic Scheduler Tool
+Co-developed a course planning web app used by 50+ CS students.
+
+Designed clean UI in Figma and implemented key features like real-time filtering and organization.
+
+♠️ Blackjack Game
+Created an interactive Blackjack game using Java and JavaFX, featuring modular object-oriented design and GUI animations.
+
+💛 Skills
+Languages: Python, Java, C/C++
+Web Technologies: HTML, CSS, JavaScript
+Frameworks: React, JavaFX
+Tools: Figma, Git/GitHub, VSCode, PyCharm, IntelliJ IDEA
+Certifications: Machine Learning Foundations (Cornell, 2026)
+
+❤️ Leadership & Involvement
+Break Through Tech AI Fellow (2025–2026)
+Selected from 1500+ applicants to participate in AI coursework, mentorship, and real-world ML development.
+
+Women in Computer Science – UIC
+Active member contributing to inclusive projects, including the academic scheduler tool.
+
+Delta Phi Omega Sorority, Inc. – Treasurer (2023–2024)
+Managed financial operations and fund allocations for events and chapter initiatives.
+
+🤍 Let’s Connect!
+I’m always excited to meet fellow tech enthusiasts, designers, and innovators. Let’s connect on LinkedIn — I’m currently exploring opportunities in software engineering, AI/ML, and product design.
+
+🩵 Interests
+Software Engineering
+
+UI/UX Design
+
+Applied Machine Learning
+
+Equity & Inclusion in Tech
