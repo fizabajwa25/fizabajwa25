@@ -57,6 +57,7 @@ Managed financial operations and fund allocations for events and chapter initiat
 ## 🤍 Let’s Connect!  
 I’m always excited to meet fellow tech enthusiasts, designers, and innovators.  
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/fiza-bajwa-302319260/)  
+📧 Email: fizabajwa25@gmail.com
 I’m currently exploring opportunities in **software engineering**, **AI/ML**, and **product design**.
 
 ---
