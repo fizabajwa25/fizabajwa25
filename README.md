@@ -34,7 +34,7 @@ Coordinated and executed campus marketing events, managed logistics, and boosted
 ---
 
 ## 💛 Skills  
-- **Languages**: Python, Java, C/C++  
+- **Languages**: Python, Java, C/C++, R, SQL
 - **Web Technologies**: HTML, CSS, JavaScript  
 - **Frameworks**: React, JavaFX  
 - **Tools**: Figma, Git/GitHub, VSCode, PyCharm, IntelliJ IDEA  
@@ -44,7 +44,8 @@ Coordinated and executed campus marketing events, managed logistics, and boosted
 
 ## ❤️ Leadership & Involvement  
 **Break Through Tech AI Fellow (2025–2026)**  
-Selected from **1500+ applicants** to participate in AI coursework, mentorship, and real-world ML development.
+Selected from **1500+ applicants** to participate in AI coursework, mentorship, and real-world ML development for the Break Through Tech AI Program at Cornell Tech.
+Participant in 12-month long program including Machine Learning coursework with Cornell faculty, experiential learning experience, and mentorship from industry professionals.
 
 **Women in Computer Science – UIC**  
 Active member contributing to inclusive projects, including the academic scheduler tool.
