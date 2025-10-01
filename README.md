@@ -1,7 +1,7 @@
 # 💜 Hi there! I'm Fiza Bajwa
 
 ## 💙 About Me  
-I’m a rising senior majoring in **Computer Science** at the **University of Illinois Chicago**, with a deep interest in **software engineering**, **machine learning**, and **UI/UX design**. As a **first-generation woman in tech**, I’m committed to breaking barriers and building solutions that are both impactful and inclusive.
+I’m a senior majoring in **Computer Science** at the **University of Illinois Chicago**, with a deep interest in **software engineering**, **machine learning**, and **UI/UX design**. As a **first-generation woman in tech**, I’m committed to breaking barriers and building solutions that are both impactful and inclusive.
 
 I recently earned a certificate in **Machine Learning Foundations** from Cornell University, and I’m currently applying that knowledge through real-world AI projects as part of the **Break Through Tech AI Fellowship**.
 
